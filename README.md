@@ -1,10 +1,10 @@
-### Spec
+## Spec
 react native + native-base + react-navigation
 
 yarn 설치
 https://yarnpkg.com/en/docs/install
 
-### 필수 전역 세팅 Setting
+## 필수 전역 세팅 Setting
 npm install -g react-native-cli
 npm install -g create-react-native-app
 npm install -g expo-cli
