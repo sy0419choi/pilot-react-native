@@ -14,4 +14,5 @@ https://yarnpkg.com/en/docs/install
 ### 이건 안해도됨. project에 모듈로 넣어둠
 yarn add native-base @expo/vector-icons
 yarn add react-navigation
+yarn add 
 
